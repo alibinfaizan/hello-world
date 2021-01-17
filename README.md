@@ -1,3 +1,3 @@
 # hello-world
 
-I'm a new learner and I'll be uploading my basic projects here in this repo. 
+I'll be uploading basic Python projects here for Class 12. 
